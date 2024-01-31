@@ -7,8 +7,9 @@
 - key: Description
   value:
     - Hello!
-    - I created this small website
-    - to learn a bit about programming.
+    - I created this website
+    - to learn a bit
+    - about programming.
     - Enjoy!
   typed: true
 
