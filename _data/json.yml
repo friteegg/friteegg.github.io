@@ -1,0 +1,18 @@
+- key: Name
+  value: Pepe Ribera
+
+- key: Occupation
+  value: Law student at UdL
+
+- key: Profiles
+  value:
+    - value: Instagram
+      url: https://www.instagram.com/pepe.riberaa_fg
+    - value: Twitter
+      url: https://twitter.com/friteegg
+
+- key: Contact
+  value:
+    - key: Email
+      value: peperibera2003@gmail.com
+      url: "mailto:peperibera2003@gmail.com"
