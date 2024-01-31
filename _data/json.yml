@@ -4,6 +4,15 @@
 - key: Occupation
   value: Law student at UdL
 
+- key: Description
+  value:
+    - Hello!
+    - This tiny website was made
+    - for me to learn a bit
+    - about programming.
+    - Enjoy!
+  typed: true
+
 - key: Profiles
   value:
     - value: Instagram
